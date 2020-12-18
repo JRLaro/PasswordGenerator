@@ -12,7 +12,8 @@ https://jrlaro.github.io/PasswordGenerator/
 
 ## Installation
 
-This project can be easily accessed by the link; which you re-direct you. Make sure that you are connected to the internet.
+This project can be easily accessed by the link: https://jrlaro.github.io/PasswordGenerator/
+which will re-direct you. *Make sure that you are connected to the internet.
  
 ## Usage 
 Home Page - User will click on GENERATE PASSWORD
