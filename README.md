@@ -28,7 +28,7 @@ If User does not enter valid length
 
 ![invalidNum](https://user-images.githubusercontent.com/74631465/102660352-e330a980-4148-11eb-8b19-e6f04784984a.png)
 
-User Promts - in appropriate sequence
+User Prompts - in appropriate sequence
 
 ![specialChar](https://user-images.githubusercontent.com/74631465/102660360-e3c94000-4148-11eb-9a83-c236245303bb.png)
 
